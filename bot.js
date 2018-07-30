@@ -1,4 +1,4 @@
-const botSettings = require("./botsettings.json");
+﻿const botSettings = require("./botsettings.json");
 const Discord = require("discord.js");
 
 const bot = new Discord.Client();
@@ -42,4 +42,4 @@ bot.on('message', message => {
 
 });
 
-bot.login("NDM1NTAyNjM3NzE1MjkyMTY5.DcZ8jg.Ipk8s6AACPfW6Sjd6GNgqt8dxFA");
+bot.login("NDQzMTM5NjU4MTY4MTM5Nzc2.Dg1x3Q.hN8m3coWCzQ6PSo1z55rkUNPaaI");
